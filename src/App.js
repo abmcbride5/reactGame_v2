@@ -1,8 +1,14 @@
+import Bomb from './components/Bomb';
+
+
+
+import './App.css';
 
 function App() {
   return (
     <div className="App">
-      Hello World
+      <Bomb />
+
     </div>
   );
 }
